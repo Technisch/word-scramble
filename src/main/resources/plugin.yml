@@ -1,0 +1,6 @@
+name: WordScramble
+version: '${version}'
+main: com.github.technisch.worldscramble.WorldScramble
+api-version: 1.19
+authors: ["Gyan Bouter"]
+description: Scramble plugin that gives random word to unscramble
